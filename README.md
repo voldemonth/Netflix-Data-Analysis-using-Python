@@ -87,3 +87,7 @@ The analysis shows that Netflix contains a large collection of movies and conten
 #Dataset
 
 Netflix Movies and TV Shows Dataset
+
+#Author
+Vansh thakur 
+aspiring data analyst 
