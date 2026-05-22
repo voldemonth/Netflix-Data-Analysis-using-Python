@@ -86,7 +86,12 @@ The analysis shows that Netflix contains a large collection of movies and conten
 
 #Dataset
 
-Netflix Movies and TV Shows Dataset
+Netflix Movies and TV Shows Dash board 
+<img width="904" height="593" alt="Screenshot 2026-05-02 201244" src="https://github.com/user-attachments/assets/3bc1323a-4ce3-41dc-8907-de54e75f6cd9" />
+
+
+
+
 
 #Author
 Vansh thakur 
