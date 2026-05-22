@@ -67,7 +67,10 @@ Cleaned columns such as director, cast, country, and date_added
 Top directors with the most titles
 <img width="1143" height="526" alt="Screenshot 2026-03-10 204058" src="https://github.com/user-attachments/assets/5839b20c-67c0-49aa-a0dc-ad846918f3eb" />
 
+ #overview of Dashboard 
 
+Netflix Movies and TV Shows Dash board 
+<img width="904" height="593" alt="Screenshot 2026-05-02 201244" src="https://github.com/user-attachments/assets/3bc1323a-4ce3-41dc-8907-de54e75f6cd9" />
 # Key Insights
 
 Movies are more common than TV shows on Netflix.
@@ -80,15 +83,14 @@ Netflix content increased significantly after 2015.
 
 Some director information is missing in the dataset.
 
+
+
+
+#Dataset 
+Netflix movies and TV Shows Dataset 
 # Conclusion
 
 The analysis shows that Netflix contains a large collection of movies and content from multiple countries, with the United States contributing the most titles. The platform has expanded its content significantly in recent years.
-
-#Dataset
-
-Netflix Movies and TV Shows Dash board 
-<img width="904" height="593" alt="Screenshot 2026-05-02 201244" src="https://github.com/user-attachments/assets/3bc1323a-4ce3-41dc-8907-de54e75f6cd9" />
-
 
 
 
